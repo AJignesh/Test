@@ -12,7 +12,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        
+        print("clone commit origin")
+        print("clone commit")
+        print("clone commit")
     }
 
     override func didReceiveMemoryWarning() {
