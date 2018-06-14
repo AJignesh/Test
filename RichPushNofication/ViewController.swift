@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         
+        print("clone commit origin")
+        print("clone commit")
         print("clone commit")
     }
 
