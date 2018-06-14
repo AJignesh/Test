@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         
         
         print("clone commit origin")
-        print("clone commit")
+        print("clone commit desktop")
         print("clone commit")
     }
 
